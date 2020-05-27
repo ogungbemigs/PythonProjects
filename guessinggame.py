@@ -4,7 +4,7 @@ import random
 true_number = random.randint(1, 49)
 
 print ("Welcome to Number Guessing Game!!!!")
-print ("A number will be generated randomly by the system, we will like you to get what the number is! ")
+print ("A number will be generated randomly by the system, we will like you to guess what the number is! ")
 
 print ("....................................................")
 
